@@ -1,2 +1,3 @@
 # vakaras
+LOKALUS 
 GITHUB pakeitimas
